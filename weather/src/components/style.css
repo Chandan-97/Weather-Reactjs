@@ -1,0 +1,122 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.header {
+  background-color: #1642f6;
+  color: #fff;
+}
+
+#custom-search-input {
+  padding: 3px;
+  border: solid 1px #e4e4e4;
+  border-radius: 6px;
+  background-color: #fff;
+}
+
+#custom-search-input input {
+  border: 0;
+  box-shadow: none;
+}
+
+#custom-search-input button {
+  margin: 2px 0 0 0;
+  background: none;
+  box-shadow: none;
+  border: 0;
+  color: #666666;
+  padding: 0 8px 0 10px;
+  border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover {
+  border: 0;
+  box-shadow: none;
+  border-left: solid 1px #ccc;
+}
+
+.heading {
+  margin-bottom: 1rem;
+  color: #fff;
+}
+.heading a {
+  color: #fff;
+}
+.content {
+}
+
+.list {
+  font-size: 0.8rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 0.2rem;
+}
+
+.left {
+  color: #484848;
+}
+
+.right {
+  display: flex;
+}
+
+.list_ {
+  list-style: none;
+}
+
+.posiblity {
+  font-weight: 700;
+  font-size: 1rem;
+  color: #09c2ef;
+  padding: 0 1rem;
+  line-height: 2;
+}
+
+.faid {
+  color: #b6b6b6;
+}
+
+input {
+  width: 100%;
+}
+
+.fa-clock-o {
+  font-size: 1.3em;
+}
+
+.col-2 {
+  text-align: left;
+}
+
+.col-8 {
+  text-align: center;
+  font-size: 1.4em;
+}
+
+.fa-cloud {
+  font-size: 2rem;
+}
+
+.fa-thermometer-quarter {
+  font-size: 4rem;
+  height: 100%;
+}
+
+.temperature_text {
+  font-size: 1.3rem;
+}
+
+.div-center-text {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
+.display-5 {
+  font-size: 2rem;
+}
+
+.small-fade-text {
+  color: #b6b6b6;
+  font-size: 0.9rem;
+}
